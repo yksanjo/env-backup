@@ -1,0 +1,25 @@
+{
+  "name": "env-backup",
+  "version": "1.0.0",
+  "description": "Save and restore environment variables and shell configuration",
+  "main": "src/index.js",
+  "bin": {
+    "env-backup": "./bin/env-backup"
+  },
+  "scripts": {
+    "start": "node bin/env-backup"
+  },
+  "keywords": [
+    "environment",
+    "env",
+    "backup",
+    "variables"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
