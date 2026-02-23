@@ -1,5 +1,12 @@
 # env-backup
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/env-backup/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/env-backup/actions)
+![License](https://img.shields.io/github/license/yksanjo/env-backup)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/env-backup)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/env-backup)
+
 ## Detailed Description
 
 env-backup is maintained as an industry-grade software project with production-ready engineering practices.  
